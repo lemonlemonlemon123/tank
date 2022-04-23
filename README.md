@@ -1,5 +1,5 @@
 # tank
-It is my first repository on GitHub     I like 🍫 🤭
+It is my first repository on GitHub 🍫 🤭
 
 PS：1、该项目还未完成 🍒
 
