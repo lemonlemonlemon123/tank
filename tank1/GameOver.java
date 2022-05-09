@@ -31,7 +31,7 @@ public class GameOver extends JFrame {
             JButton button1=new JButton("结束游戏");
             Object[] colname={"游戏模式","玩家一（打敌数）","玩家二（打敌数）"};
             Class.forName("com.mysql.jdbc.Driver");
-            Connection conn= DriverManager.getConnection("jdbc:mysql://localhost:3306/project1","root","lmj123456");
+            Connection conn= DriverManager.getConnection("jdbc:mysql://localhost:3306/project1","root","密码就不告诉了");
             Statement stmt=conn.createStatement();
             String sql;
             if(TankTest.aBoolean1){//单人模式下，向数据库输入信息。
