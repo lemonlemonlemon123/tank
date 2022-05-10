@@ -57,6 +57,6 @@ Object[][] data=new Object[n][10];//JTable table=new JTable(data,colname);//c.ad
                   
 核心代码：可在ipdemo中查找。    
 
-注：更为详细的解释，可在Word的文档中查看（其中有在编写网络编程时，在网上查找的资料（一部分））。
+注：更为详细的解释，可在Word的文档(即.docx)中查看（其中有在编写网络编程时，在网上查找的资料（一部分））。
 
 Finally：做的有不足，但尽自己的努力啦🌻
