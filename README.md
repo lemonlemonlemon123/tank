@@ -1,4 +1,6 @@
 # tank
+主键盘的1键为子弹发射的键。
+
 It is my first repository on GitHub 🍫 🤭
 
 这个坦克大战小游戏我做的有不足，但尽自己的努力啦🌾
